@@ -20,6 +20,8 @@ struct Entity{
 
 Entity ent[MAX_ENTS];
 
+int alloc_entity(int type);
+void free_entity(int id);
 void physics();
 
 #endif

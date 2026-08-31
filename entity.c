@@ -8,7 +8,6 @@ int alloc_entity(int type)
 			return i;
 		}
 	}
-	assert(0);
 	return 0;
 }
 
