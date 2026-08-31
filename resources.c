@@ -15,7 +15,7 @@ void load_textures()
 
 	vege_textures[FLOWER1] = LoadTexture("textures/flower1.png");
 	vege_textures[FLOWER2] = LoadTexture("textures/flower2.png");
-	vege_textures[STICK] = LoadTexture("textures/Stick.png");
+	vege_textures[STICK] = LoadTexture("textures/Twig.png");
 	vege_textures[TRUNK] = LoadTexture("textures/Trunk.png");
 	vege_textures[BUSH] = LoadTexture("textures/Bush.png");
 
